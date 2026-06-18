@@ -1,5 +1,5 @@
-Demand Forecasting & Inventory Intelligence System
-Overview
+# Demand Forecasting & Inventory Intelligence System
+## Overview
 
 This project is an end-to-end Machine Learning-based Demand Forecasting and Inventory Intelligence System developed during my internship at HCA.
 
@@ -7,7 +7,7 @@ The system helps businesses analyze historical sales data, identify demand patte
 
 The project combines Data Analysis, Business Intelligence, Machine Learning, Forecasting, and Inventory Optimization into a single solution.
 
-Business Problem
+## Business Problem
 
 Businesses often face challenges such as:
 
@@ -19,7 +19,7 @@ Revenue loss due to poor planning
 
 This project addresses these challenges by forecasting future demand and recommending optimal restocking quantities based on inventory levels and forecasted demand.
 
-Objectives
+## Objectives
 Analyze historical sales and inventory data
 Discover business insights using Exploratory Data Analysis (EDA)
 Build machine learning forecasting models
@@ -29,7 +29,7 @@ Generate inventory restocking recommendations
 Support data-driven business decisions
 Dataset Features
 
-The dataset contains information related to:
+## The dataset contains information related to:
 
 Store Information
 Product Information
@@ -64,7 +64,7 @@ Promotional Effects
 Seasonal Effects
 Exploratory Data Analysis (EDA)
 
-The project includes extensive EDA such as:
+## The project includes extensive EDA such as:
 
 Data Quality Analysis
 Missing Value Analysis
@@ -96,7 +96,7 @@ Correlation Analysis
 Interactive Plotly Charts
 Machine Learning Models
 
-The following models were trained and evaluated:
+## The following models were trained and evaluated:
 
 Linear Regression
 
@@ -124,7 +124,7 @@ Inventory Intelligence & Restocking Engine
 
 The project includes an intelligent inventory recommendation system.
 
-Features
+## Features
 Forecast Demand Calculation
 Safety Stock Calculation
 Reorder Point Calculation
@@ -140,7 +140,8 @@ Safety Stock = Forecast Demand × 20%
 Reorder Point = Forecast Demand + Safety Stock
 
 Restock Quantity = Reorder Point − Current Inventory
-Technologies Used
+
+## Technologies Used
 Programming Language
 Python
 Data Analysis
@@ -154,10 +155,8 @@ Machine Learning
 Scikit-Learn
 Deployment
 Streamlit
-Version Control
-Git
-GitHub
-Project Workflow
+
+## Project Workflow
 Data Collection
         ↓
 Data Cleaning
@@ -175,7 +174,8 @@ Demand Forecasting
 Restocking Recommendation
         ↓
 Deployment
-Key Features
+
+## Key Features
 
 ✅ Advanced Exploratory Data Analysis
 
