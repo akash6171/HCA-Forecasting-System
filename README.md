@@ -98,17 +98,11 @@ Machine Learning Models
 
 ## The following models were trained and evaluated:
 
-Linear Regression
+Linear Regression: Used as a baseline forecasting model.
 
-Used as a baseline forecasting model.
+Random Forest Regressor: Used to capture complex nonlinear relationships.
 
-Random Forest Regressor
-
-Used to capture complex nonlinear relationships.
-
-Gradient Boosting Regressor
-
-Used for improved forecasting performance through boosting techniques.
+Gradient Boosting Regressor: Used for improved forecasting performance through boosting techniques.
 
 Model Evaluation Metrics
 
